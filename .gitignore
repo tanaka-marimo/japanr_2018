@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+Data/IN/TC/*.csv
+Data/IN/rain/*.csv
+Data/IN/*.csv
+Data/OUT/*.png
